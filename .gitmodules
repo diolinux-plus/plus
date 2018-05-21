@@ -1,6 +1,7 @@
 [submodule "api"]
-	path = api
-	url = git@github.com:diolinux-plus/api.git
+path = api
+url = git@github.com:diolinux-plus/api.git
+
 [submodule "client"]
-	path = client
-	url = git@github.com:diolinux-plus/diolinux-plus.github.io.git
+path = client
+url = git@github.com:diolinux-plus/diolinux-plus.github.io.git
